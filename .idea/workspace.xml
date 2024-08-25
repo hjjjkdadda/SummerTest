@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="866d8151-9426-4766-8c24-c9da270f03d0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/student_backed/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_backed/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/student_backed/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_backed/src/main/java/com/zretc/student_backed/StudentBackedApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_backed/src/main/java/com/zretc/student_backed/config/WebConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_backed/src/main/java/com/zretc/student_backed/controller/CheckupController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_backed/src/main/java/com/zretc/student_backed/controller/CollegeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_backed/src/main/java/com/zretc/student_backed/controller/FileController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_backed/src/main/java/com/zretc/student_backed/controller/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_backed/src/main/java/com/zretc/student_backed/mapper/AccountMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_backed/src/main/java/com/zretc/student_backed/mapper/CheckupMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_backed/src/main/java/com/zretc/student_backed/mapper/CollegeMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_backed/src/main/java/com/zretc/student_backed/pojo/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_backed/src/main/java/com/zretc/student_backed/pojo/Checkup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_backed/src/main/java/com/zretc/student_backed/pojo/College.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_backed/src/main/java/com/zretc/student_backed/pojo/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_backed/src/main/java/com/zretc/student_backed/service/AccountService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_backed/src/main/java/com/zretc/student_backed/service/CheckupService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_backed/src/main/java/com/zretc/student_backed/service/CollegeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_backed/src/main/java/com/zretc/student_backed/service/impl/AccountServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_backed/src/main/java/com/zretc/student_backed/service/impl/CheckupServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_backed/src/main/java/com/zretc/student_backed/service/impl/CollegeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_backed/src/main/java/com/zretc/student_backed/utils/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_backed/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/student_backed/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_backed/src/main/resources/mapper/AccountMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_backed/src/main/resources/mapper/CheckupMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_backed/src/main/resources/mapper/CollegeMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_backed/src/test/java/com/zretc/student_backed/StudentBackedApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Program Files\Java\repository" />
+        <option name="mavenHome" value="C:/Program Files/Java/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Program Files\Java\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="2l8r559F0sUhBX8quQ8faRiRvpE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/student_backed" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="866d8151-9426-4766-8c24-c9da270f03d0" name="Default Changelist" comment="" />
+      <created>1724572357380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724572357380</updated>
+      <workItem from="1724572358631" duration="123000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="115" key="FileChooserDialogImpl" timestamp="1724572480008">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="115" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1724572480008" />
+    <state x="142" y="5" key="SettingsEditor" timestamp="1724572467167">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="5" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1724572467167" />
+  </component>
+</project>
