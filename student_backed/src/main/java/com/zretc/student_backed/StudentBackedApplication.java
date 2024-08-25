@@ -1,4 +1,4 @@
-package com.cqu.student_backed;
+package com.zretc.student_backed;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

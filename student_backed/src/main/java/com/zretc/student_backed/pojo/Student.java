@@ -1,4 +1,4 @@
-package com.cqu.student_backed.pojo;
+package com.zretc.student_backed.pojo;
 
 import lombok.Data;
 
@@ -17,4 +17,5 @@ public class Student {
     private String password;
     private String image;
     private int status;
+
 }

@@ -1,4 +1,4 @@
-package com.cqu.student_backed.utils;
+package com.zretc.student_backed.utils;
 
 import lombok.Data;
 
@@ -44,3 +44,4 @@ public class R implements Serializable {
         return r;
     }
 }
+
